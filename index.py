@@ -37,7 +37,7 @@ aula.grid(row=0,column=4)
 aula.bind("<Button-1>", lambda: mudar_pagina(3))
 
 #corpo (decidir oque colocar aqui)
-Label(Body,text="1").grid(row=0,column=0)
+Label(Body,text="lorem").grid(row=0,column=0)
 Label(Body,text="2").grid(row=1,column=0)
 Label(Body,text="3").grid(row=2,column=0)
 
